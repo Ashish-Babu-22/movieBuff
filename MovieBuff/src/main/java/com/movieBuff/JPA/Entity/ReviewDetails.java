@@ -13,6 +13,8 @@ public class ReviewDetails {
     @Column(name = "review")
     private String review;
 
+    //this is the change i made
+
     public ReviewDetails(){}
 
     public ReviewDetails(String review) {
